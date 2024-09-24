@@ -1,9 +1,13 @@
 
-
 ---
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=Bikcraft;O+site+para+os+apaixonados+por+bicicletas!)](https://git.io/typing-svg)
+
+<div align="center">
+  <img src="https://drive.google.com/uc?id=1v8rbVaT2i-62oY5AK4mIUy6RZq5z9YUX" alt="Bikcraft Project Screenshot" width="800"/>
+</div>
 
 ## Sobre 📝
 
